@@ -16,16 +16,16 @@ CREATE TABLE ProductCategories (
 
 INSERT INTO Product
 VALUES
-	(1, 'Хлеб'),
-	(2, 'Консервы'),
-	(3, 'Сигареты'),
-	(4, 'Молоко');
+	(1, 'Bread'),
+	(2, 'Canned meat'),
+	(3, 'Cigarettes'),
+	(4, 'Milk');
 
 INSERT INTO Category
 VALUES
-	(1, 'Хлебобулочное'),
-	(2, 'Скоропортящееся'),
-	(3, 'Мясное');
+	(1, 'Bakery'),
+	(2, 'Perishable'),
+	(3, 'Meat');
 
 INSERT INTO ProductCategories
 VALUES
