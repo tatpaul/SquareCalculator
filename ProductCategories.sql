@@ -34,7 +34,7 @@ VALUES
 	(2, 3),
 	(4, 2);
 
-SELECT p."Name" as "Продукт", c."Name" as "Категория"
+SELECT p."Name" as "ProductName", c."Name" as "CategoryName"
 FROM Product p
 LEFT JOIN ProductCategories pc
 	ON p.ProductId = pc.ProductId
