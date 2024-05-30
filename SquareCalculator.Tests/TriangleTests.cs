@@ -3,6 +3,9 @@ using Xunit;
 
 namespace SquareCalculator.Tests
 {
+    /// <summary>
+    /// Тесты фигуры Треугольник
+    /// </summary>
     public class TriangleTests
     {
         [Fact]

@@ -3,6 +3,9 @@ using Xunit;
 
 namespace SquareCalculator.Tests
 {
+    /// <summary>
+    /// Тесты фигуры Круг
+    /// </summary>
     public class CircleTests
     {
         [Fact]

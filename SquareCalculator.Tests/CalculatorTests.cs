@@ -3,6 +3,9 @@ using Xunit;
 
 namespace SquareCalculator.Tests
 {
+    /// <summary>
+    /// Тесты метода для расчета площади фигур
+    /// </summary>
     public class CalculatorTests
     {
         [Fact]
